@@ -29,14 +29,6 @@ Minha jornada é focada no desenvolvimento contínuo, transitando desde a manute
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-## 📈 Minhas Estatísticas
-
-<p align="left">
-  <!-- DICA: Substitua "SEU_USUARIO" pelo seu nome de usuário real do GitHub -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniloBruno-Araujo&show_icons=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloBruno-Araujo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" height="150"/>
-</p>
-
 ## 📫 Como me contatar
 
 Estou sempre aberto a trocar ideias sobre tecnologia, design de interfaces ou dicas de personalização de sistemas!
