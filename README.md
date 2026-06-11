@@ -10,7 +10,7 @@ Minha jornada é focada no desenvolvimento contínuo, transitando desde a manute
 * 🌐 **Redes e IA:** Estudando Redes de Computadores de forma autodidata para entender profundamente como a web se conecta, além de explorar integrações com Inteligência Artificial.
 * 🎨 **Desenvolvimento e UI/UX:** Adoro pensar na experiência do usuário. Prototipo ideias no **Figma** para garantir a melhor usabilidade antes de dar vida ao código usando **React**, **Next.js** e **Python**.
 * 💡 **Projetos:** Gosto de criar soluções com propósito, como o desenvolvimento de plataformas de *matchmaking* para adoção responsável de pets (Auma Gêmea).
-* 🎮 **Nas horas vagas:** Curto jogar games cooperativos e retrô, e me aventurar no universo do 3D e design gráfico.
+* 🎮 **Nas horas vagas:** Curto jogar games, e me aventurar no universo do 3D e design gráfico.
 
 ## 🛠️ Minhas Ferramentas e Tecnologias
 
