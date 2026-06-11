@@ -1,18 +1,18 @@
-# Olá! 👋 Sou o Danilo Bruno
+# Olá! Sou o Danilo Bruno
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas e atuo como Estagiário de Infraestrutura. Gosto de unir o melhor de dois mundos: a robustez dos sistemas operacionais e a beleza das interfaces centradas no usuário. 
 
 Minha jornada é focada no desenvolvimento contínuo, transitando desde a manutenção de hardware até a criação de aplicações web modernas.
 
-## 🚀 Sobre mim
+##  Sobre mim
 
-* 🐧 **Infraestrutura e SO:** Trabalho diariamente com infraestrutura, manutenção de equipamentos e suporte. Sou um entusiasta do ecossistema **Linux** (especialmente personalizando ambientes como Arch Linux com Hyprland e GNOME).
-* 🌐 **Redes e IA:** Estudando Redes de Computadores de forma autodidata para entender profundamente como a web se conecta, além de explorar integrações com Inteligência Artificial.
-* 🎨 **Desenvolvimento e UI/UX:** Adoro pensar na experiência do usuário. Prototipo ideias no **Figma** para garantir a melhor usabilidade antes de dar vida ao código usando **React**, **Next.js** e **Python**.
-* 💡 **Projetos:** Gosto de criar soluções com propósito, como o desenvolvimento de plataformas de *matchmaking* para adoção responsável de pets (Auma Gêmea).
-* 🎮 **Nas horas vagas:** Curto jogar games, e me aventurar no universo do 3D e design gráfico.
+  **Infraestrutura e SO:** Trabalho diariamente com infraestrutura, manutenção de equipamentos e suporte. Sou um entusiasta do ecossistema **Linux** (especialmente personalizando ambientes como Arch Linux com Hyprland e GNOME).
+  **Redes e IA:** Estudando Redes de Computadores de forma autodidata para entender profundamente como a web se conecta, além de explorar integrações com Inteligência Artificial.
+  **Desenvolvimento e UI/UX:** Adoro pensar na experiência do usuário. Prototipo ideias no **Figma** para garantir a melhor usabilidade antes de dar vida ao código usando **React**, **Next.js** e **Python**.
+  **Projetos:** Gosto de criar soluções com propósito, como o desenvolvimento de plataformas de *matchmaking* para adoção responsável de pets (Auma Gêmea).
+  **Nas horas vagas:** Curto jogar games, e me aventurar no universo do 3D e design gráfico.
 
-## 🛠️ Minhas Ferramentas e Tecnologias
+## Minhas Ferramentas e Tecnologias
 
 ### Design & Front-end
 <p align="left">
@@ -28,7 +28,7 @@ Minha jornada é focada no desenvolvimento contínuo, transitando desde a manute
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
-## 📫 Como me contatar
+## Como me contatar
 
 Estou sempre aberto a trocar ideias sobre tecnologia, design de interfaces ou dicas de personalização de sistemas!
 
